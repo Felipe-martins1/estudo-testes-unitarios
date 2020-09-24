@@ -1,0 +1,19 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "juros.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
+  "jest": {
+    "collectCoverage": true
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node juros.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
