@@ -1,6 +1,6 @@
 <h1>Testes unitários usando jest</h1>
 
-# exercicios-modulos-e-testes-unitarios
+
 <h3>Exercícios sobre Módulos e Testes:</h3>
 <p>O objetivo destes exercícios é criarmos módulos e funções dentro destes módulos e testá-los unitáriamente.</p>
 
